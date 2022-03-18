@@ -1,0 +1,142 @@
+.main-article-container {
+    margin: 8rem auto;
+  }
+  
+  .main-article-container h2 {
+    text-transform: capitalize;
+  }
+  
+  .article-container {
+    display: flex;
+    justify-content: center;
+    max-width: 100%;
+   
+  }
+  
+  .article-text-container {
+    display: flex;
+    max-width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 4rem;
+    min-height: 100px;
+  }
+  
+  .article-text-container h2 {
+    position: relative;
+    text-transform: uppercase;
+    font-size: 1.61538462rem;
+  }
+  
+  .article-text-container p {
+    position: relative;
+    margin-top: 2em;
+    font-size: 1rem;
+  }
+  
+  .circle-image-container1 {
+    height: 491px;
+    display: flex;
+    position: relative;
+  }
+  
+  .circle-image-container2 {
+    height: 491px;
+    width: auto;
+    display: flex;
+    position: relative;
+  }
+  
+  .circle-image-container3 {
+    height: 491px;
+    display: flex;
+    position: relative;
+  }
+  
+  .circle {
+    top: 50px;
+    position: relative;
+    align-items: center;
+    width: 379px;
+    height: 377px;
+    border: solid;
+    border-radius: 50%;
+  }
+  
+  .circle::before {
+    content: "";
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    border: none;
+    border-radius: 50%;
+    position: absolute;
+    background-color: var(--accent-color);
+    opacity: 0.4;
+  }
+  
+  .circle-image1 {
+    position: relative;
+    bottom: 5em;
+    width: auto;
+    height: 491px;
+  }
+  
+  .circle-image2 {
+    position: relative;
+    width: auto;
+    height: 451px;
+    right: 4em;
+    bottom: 1em;
+  }
+  
+  .circle-image3 {
+    position: relative;
+    width: auto;
+    height: 418px;
+    right: 1em;
+    bottom: 2em;
+  }
+  
+  @media only screen and (max-width: 900px) {
+    .circle {
+      width: 279px;
+      height: 277px;
+    }
+  
+    .circle-image1 {
+      height: 391px;
+    }
+  
+    .circle-image2 {
+      height: 351px;
+    }
+  
+    .circle-image3 {
+      height: 318px;
+    }
+  }
+  
+  @media only screen and (max-width: 1750px) {
+    .main-article-container {
+      margin: 8rem auto;
+    }
+  
+    .article-container {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .article-text-container {
+      margin: 0 1rem 0 1rem;
+      align-items: center;
+      text-align: center;
+      
+    }
+  
+    .article-text-cointainer h2 {
+      text-align: center;
+    }
+  }
+  
