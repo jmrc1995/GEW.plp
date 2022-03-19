@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/GEW.plp/static/css/main.67b1f5a3.css",
-    "main.js": "/GEW.plp/static/js/main.a27d7b14.js",
-    "static/media/Greensiaearthworks-19.jpg": "/GEW.plp/static/media/Greensiaearthworks-19.119c9dffb4c0416d9aee.jpg",
-    "static/media/Earth black.png": "/GEW.plp/static/media/Earth black.00a4bfc0f6d6f3cd4099.png",
-    "static/media/Logo Solo PNG.png": "/GEW.plp/static/media/Logo Solo PNG.310f3cf3ea71a2dc873b.png",
-    "static/media/PNG_GREENSIA_LOGO_HORIZONTAL_COLOR.png": "/GEW.plp/static/media/PNG_GREENSIA_LOGO_HORIZONTAL_COLOR.71b873ce0955e8efd63b.png",
-    "static/media/Component 1 – 1.png": "/GEW.plp/static/media/Component 1 – 1.9f7074175c5ffc78c7bc.png",
-    "static/media/276 bamboo7-png-01.png": "/GEW.plp/static/media/276 bamboo7-png-01.791d0063b279b7d19f63.png",
-    "index.html": "/GEW.plp/index.html",
-    "static/media/menu.svg": "/GEW.plp/static/media/menu.644fa295fdd5f662e642ba6bfb084239.svg",
-    "static/media/user.svg": "/GEW.plp/static/media/user.780a52a3688dd2fd0230fe4949982dd5.svg",
-    "main.67b1f5a3.css.map": "/GEW.plp/static/css/main.67b1f5a3.css.map",
-    "main.a27d7b14.js.map": "/GEW.plp/static/js/main.a27d7b14.js.map"
+    "main.css": "/GEW.plp/index.html/static/css/main.b12aa10a.css",
+    "main.js": "/GEW.plp/index.html/static/js/main.bb3d41cf.js",
+    "static/media/Greensiaearthworks-19.jpg": "/GEW.plp/index.html/static/media/Greensiaearthworks-19.119c9dffb4c0416d9aee.jpg",
+    "static/media/Earth black.png": "/GEW.plp/index.html/static/media/Earth black.00a4bfc0f6d6f3cd4099.png",
+    "static/media/Logo Solo PNG.png": "/GEW.plp/index.html/static/media/Logo Solo PNG.310f3cf3ea71a2dc873b.png",
+    "static/media/PNG_GREENSIA_LOGO_HORIZONTAL_COLOR.png": "/GEW.plp/index.html/static/media/PNG_GREENSIA_LOGO_HORIZONTAL_COLOR.71b873ce0955e8efd63b.png",
+    "static/media/Component 1 – 1.png": "/GEW.plp/index.html/static/media/Component 1 – 1.9f7074175c5ffc78c7bc.png",
+    "static/media/276 bamboo7-png-01.png": "/GEW.plp/index.html/static/media/276 bamboo7-png-01.791d0063b279b7d19f63.png",
+    "index.html": "/GEW.plp/index.html/index.html",
+    "static/media/menu.svg": "/GEW.plp/index.html/static/media/menu.644fa295fdd5f662e642ba6bfb084239.svg",
+    "static/media/user.svg": "/GEW.plp/index.html/static/media/user.780a52a3688dd2fd0230fe4949982dd5.svg",
+    "main.b12aa10a.css.map": "/GEW.plp/index.html/static/css/main.b12aa10a.css.map",
+    "main.bb3d41cf.js.map": "/GEW.plp/index.html/static/js/main.bb3d41cf.js.map"
   },
   "entrypoints": [
-    "static/css/main.67b1f5a3.css",
-    "static/js/main.a27d7b14.js"
+    "static/css/main.b12aa10a.css",
+    "static/js/main.bb3d41cf.js"
   ]
 }
