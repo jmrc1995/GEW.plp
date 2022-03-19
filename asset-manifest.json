@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/GEW.plp/static/css/main.67b1f5a3.css",
-    "main.js": "/GEW.plp/static/js/main.a27d7b14.js",
-    "static/media/Greensiaearthworks-19.jpg": "/GEW.plp/static/media/Greensiaearthworks-19.119c9dffb4c0416d9aee.jpg",
-    "static/media/Earth black.png": "/GEW.plp/static/media/Earth black.00a4bfc0f6d6f3cd4099.png",
-    "static/media/Logo Solo PNG.png": "/GEW.plp/static/media/Logo Solo PNG.310f3cf3ea71a2dc873b.png",
-    "static/media/PNG_GREENSIA_LOGO_HORIZONTAL_COLOR.png": "/GEW.plp/static/media/PNG_GREENSIA_LOGO_HORIZONTAL_COLOR.71b873ce0955e8efd63b.png",
-    "static/media/Component 1 – 1.png": "/GEW.plp/static/media/Component 1 – 1.9f7074175c5ffc78c7bc.png",
-    "static/media/276 bamboo7-png-01.png": "/GEW.plp/static/media/276 bamboo7-png-01.791d0063b279b7d19f63.png",
-    "index.html": "/GEW.plp/index.html",
-    "static/media/menu.svg": "/GEW.plp/static/media/menu.644fa295fdd5f662e642ba6bfb084239.svg",
-    "static/media/user.svg": "/GEW.plp/static/media/user.780a52a3688dd2fd0230fe4949982dd5.svg",
-    "main.67b1f5a3.css.map": "/GEW.plp/static/css/main.67b1f5a3.css.map",
-    "main.a27d7b14.js.map": "/GEW.plp/static/js/main.a27d7b14.js.map"
+    "main.css": "/GE_LandingPage/static/css/main.6aa5634d.css",
+    "main.js": "/GE_LandingPage/static/js/main.ead7d97c.js",
+    "static/media/Greensiaearthworks-19.jpg": "/GE_LandingPage/static/media/Greensiaearthworks-19.119c9dffb4c0416d9aee.jpg",
+    "static/media/Earth black.png": "/GE_LandingPage/static/media/Earth black.00a4bfc0f6d6f3cd4099.png",
+    "static/media/Logo Solo PNG.png": "/GE_LandingPage/static/media/Logo Solo PNG.310f3cf3ea71a2dc873b.png",
+    "static/media/PNG_GREENSIA_LOGO_HORIZONTAL_COLOR.png": "/GE_LandingPage/static/media/PNG_GREENSIA_LOGO_HORIZONTAL_COLOR.71b873ce0955e8efd63b.png",
+    "static/media/Component 1 – 1.png": "/GE_LandingPage/static/media/Component 1 – 1.9f7074175c5ffc78c7bc.png",
+    "static/media/276 bamboo7-png-01.png": "/GE_LandingPage/static/media/276 bamboo7-png-01.791d0063b279b7d19f63.png",
+    "index.html": "/GE_LandingPage/index.html",
+    "static/media/menu.svg": "/GE_LandingPage/static/media/menu.644fa295fdd5f662e642ba6bfb084239.svg",
+    "static/media/user.svg": "/GE_LandingPage/static/media/user.780a52a3688dd2fd0230fe4949982dd5.svg",
+    "main.6aa5634d.css.map": "/GE_LandingPage/static/css/main.6aa5634d.css.map",
+    "main.ead7d97c.js.map": "/GE_LandingPage/static/js/main.ead7d97c.js.map"
   },
   "entrypoints": [
-    "static/css/main.67b1f5a3.css",
-    "static/js/main.a27d7b14.js"
+    "static/css/main.6aa5634d.css",
+    "static/js/main.ead7d97c.js"
   ]
 }
