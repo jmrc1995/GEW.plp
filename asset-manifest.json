@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.90dd1bae.css",
+    "main.js": "/my-app/static/js/main.61815ff8.js",
+    "static/media/Greensiaearthworks-19.jpg": "/my-app/static/media/Greensiaearthworks-19.119c9dffb4c0416d9aee.jpg",
+    "static/media/Earth black.png": "/my-app/static/media/Earth black.00a4bfc0f6d6f3cd4099.png",
+    "static/media/Logo Solo PNG.png": "/my-app/static/media/Logo Solo PNG.310f3cf3ea71a2dc873b.png",
+    "static/media/PNG_GREENSIA_LOGO_HORIZONTAL_COLOR.png": "/my-app/static/media/PNG_GREENSIA_LOGO_HORIZONTAL_COLOR.71b873ce0955e8efd63b.png",
+    "static/media/Component 1 – 1.png": "/my-app/static/media/Component 1 – 1.9f7074175c5ffc78c7bc.png",
+    "static/media/276 bamboo7-png-01.png": "/my-app/static/media/276 bamboo7-png-01.791d0063b279b7d19f63.png",
+    "index.html": "/my-app/index.html",
+    "static/media/menu.svg": "/my-app/static/media/menu.644fa295fdd5f662e642ba6bfb084239.svg",
+    "static/media/user.svg": "/my-app/static/media/user.780a52a3688dd2fd0230fe4949982dd5.svg",
+    "main.90dd1bae.css.map": "/my-app/static/css/main.90dd1bae.css.map",
+    "main.61815ff8.js.map": "/my-app/static/js/main.61815ff8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90dd1bae.css",
+    "static/js/main.61815ff8.js"
+  ]
+}
